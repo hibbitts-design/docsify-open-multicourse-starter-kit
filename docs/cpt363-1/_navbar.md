@@ -1,0 +1,6 @@
+* [Home](cpt363-1/home.md)
+* [Schedule](cpt363-1/schedule.md)
+* [Topics](cpt363-1/topics.md)
+* [Resources](cpt363-1/resources.md)
+* [UX Techniques Guide](cpt363-1/ux-techniques-guide.md)
+* [Contact](cpt363-1/contact.md)
