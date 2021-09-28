@@ -49,6 +49,8 @@ Do you use GitLab? You can also use Docsify with [GitLab Pages](https://docsify.
 
 [Learn more about creating pages in Docsify.](https://docsify.js.org/#/more-pages)
 
+[Moving and Renaming Files on GitHub.](https://github.blog/2013-03-15-moving-and-renaming-files-on-github/)
+
 🔗 Activating the “Edit this Page” Link on Your Docsify Site
 ---   
 
