@@ -47,9 +47,9 @@ Do you use GitLab? You can also use Docsify with [GitLab Pages](https://docsify.
 3. Scroll down to the bottom of the page and tap the **Commit changes** button to save your changes
 ![ Editing Your Docsify Site Pages 3](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-page-edit-3.png)
 
-[Learn more about creating pages in Docsify.](https://docsify.js.org/#/more-pages)
-
-[Moving and Renaming Files on GitHub.](https://github.blog/2013-03-15-moving-and-renaming-files-on-github/)
+💡 Tips and More Info  
+* [Learn more about creating pages in Docsify](https://docsify.js.org/#/more-pages)
+* [Moving and renaming files on GitHub](https://github.blog/2013-03-15-moving-and-renaming-files-on-github/)
 
 🔗 Activating the “Edit this Page” Link on Your Docsify Site
 ---   
@@ -78,7 +78,9 @@ Do you use GitLab? You can also use Docsify with [GitLab Pages](https://docsify.
 3. You will now be able to edit your Docsify site (in the `docs` folder) using the desktop editor of your choice (e.g. [Atom](https://atom.io/))
 4. Use GitHub Desktop to push any changes to your repository.  
 
-[Learn more about using GitHub Desktop](https://help.github.com/en/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project).
+💡 Tips and More Info  
+
+* [Learn more about using GitHub Desktop](https://help.github.com/en/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project)
 
 You can also clone (i.e download) a copy of your repository to your computer and [run Docsify locally](https://docsify.js.org/#/quickstart) to preview your site. See the below video for details.
 
