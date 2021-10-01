@@ -1,5 +1,5 @@
-## [v1.0.0-preview.2](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.0.0-preview.2)
-### XX/XX/2021
+## [v1.0.0](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.0.0)
+### 10/04/2021
 
 **Improved:**
 * ReadMe updates
