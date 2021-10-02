@@ -2,6 +2,7 @@
 ### 10/04/2021
 
 **Improved:**
+* Updated multi-course home image
 * ReadMe updates
 
 ## [v1.0.0-preview.1](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.0.0-preview.1)
