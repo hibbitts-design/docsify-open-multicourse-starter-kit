@@ -10,7 +10,7 @@
 
 📸 Docsify Open MultiCourse Screenshots
 ---
-![ Docsify Open MultiCourse Starter Kit](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/smartmockups_ktvmqftw.png)
+![ Docsify Open MultiCourse Starter Kit](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/smartmockups_kua6uxjd.png)
 _Figure 1. Docsify Open MultiCourse Starter Kit. Explore a demo at [hibbitts-design.github.io/demo-docsify-open-multicourse-starter-kit/](https://hibbitts-design.github.io/demo-docsify-open-multicourse-starter-kit/#/)_
 
 🚀 GitHub Pages Quickstart
