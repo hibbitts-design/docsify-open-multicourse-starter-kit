@@ -2,6 +2,7 @@
 ### 10/04/2021
 
 **Improved:**
+* Added 'Use this Template on GitHub' button on Sidebar
 * Changed name of Sidebar page
 * Revised Sidebar project links
 * Simplified image folder organization
