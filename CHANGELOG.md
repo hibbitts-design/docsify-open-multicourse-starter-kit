@@ -2,6 +2,8 @@
 ### 10/04/2021
 
 **Improved:**
+* Changed name of Sidebar page
+* Revised Sidebar project links
 * Simplified image folder organization
 * Updated multi-course home image
 * ReadMe updates
