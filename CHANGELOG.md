@@ -2,6 +2,7 @@
 ### 10/04/2021
 
 **Improved:**
+* Simplified image folder organization
 * Updated multi-course home image
 * ReadMe updates
 
