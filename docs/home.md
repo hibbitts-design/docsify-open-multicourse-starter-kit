@@ -12,3 +12,5 @@ A short description of the CPT363-2 course would go here.
 
 ## [CPT363-3](cpt363-3/home.md)
 A short description of the CPT363-3 course would go here.
+
+[Week 4 Visual Journal Entry due Oct 1](https://canvas.sfu.ca/courses/64326/assignments/662769 ':class=button')
