@@ -3,55 +3,55 @@
 ### [A](#a) | B | C | [D](#d) | E | [F](#f) | G | [H](#h) | I | [J](#j) | [K](#k) | [L](#l) | [M](#m) | N | O | [P](#p) | Q | R | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
 
 ### A
-[Agile UX](module-02)
+[Agile UX](cpt363-2/module-02)
 
 ### D
-[Design Ethics](module-02)  
-[Design Thinking](module-01)  
+[Design Ethics](cpt363-2/module-02)  
+[Design Thinking](cpt363-2/module-01)  
 
 ### F
-[5-Second Test](module-04)   
-[Five Whys](module-01)  
+[5-Second Test](cpt363-2/module-04)   
+[Five Whys](cpt363-2/module-01)  
 
 ### H
-[Hypothesis](module-02)  
+[Hypothesis](cpt363-2/module-02)  
 
 ### J
-[Journey Maps](module-03)  
+[Journey Maps](cpt363-2/module-03)  
 
 ### K
-[Kano Model](module-03)  
+[Kano Model](cpt363-2/module-03)  
 
 ### L
-[Lean UX](module-02)  
+[Lean UX](cpt363-2/module-02)  
 
 ### M
-[Microsoft Product Reaction Cards](module-02)  
+[Microsoft Product Reaction Cards](cpt363-2/module-02)  
 
 ### P
-[Problem Statement](module-03)  
-[Product Design Principles](module-03)  
-[Prototyping](module-04)   
+[Problem Statement](cpt363-2/module-03)  
+[Product Design Principles](cpt363-2/module-03)  
+[Prototyping](cpt363-2/module-04)   
 
 ### S
-[Scenario-based Design (and Task-Centered Design)](module-04)  
-[Scenarios (and Design Scenarios)](module-04)  
-[Sketching](module-04)
-[Social Design](module-01)  
-[Software Design Processes](module-02)  
-[Storyboards](module-04)  
+[Scenario-based Design (and Task-Centered Design)](cpt363-2/module-04)  
+[Scenarios (and Design Scenarios)](cpt363-2/module-04)  
+[Sketching](cpt363-2/module-04)
+[Social Design](cpt363-2/module-01)  
+[Software Design Processes](cpt363-2/module-02)  
+[Storyboards](cpt363-2/module-04)  
 
 ### T
-[Task Analysis](module-02)  
+[Task Analysis](cpt363-2/module-02)  
 
 ### U
-[Usability](module-01)  
-[Usability Goals](module-02)  
-[Usability Testing](module-05)   
-[User-centered Design (UCD)](module-01)  
-[User Experience Design](module-02)   
-[UX Goals](module-02)  
-[UX Strategy](module-03)  
+[Usability](cpt363-2/module-01)  
+[Usability Goals](cpt363-2/module-02)  
+[Usability Testing](cpt363-2/module-05)   
+[User-centered Design (UCD)](cpt363-2/module-01)  
+[User Experience Design](cpt363-2/module-02)   
+[UX Goals](cpt363-2/module-02)  
+[UX Strategy](cpt363-2/module-03)  
 
 ### V
-[Value Proposition](module-03)  
+[Value Proposition](cpt363-2/module-03)  
