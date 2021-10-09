@@ -1,3 +1,11 @@
+# Changelog
+
+## [v1.0.1](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.0.1)
+### 10/09/2021
+
+**Bugfix:**  
+* Fixed course page URLs on Topics pages
+
 ## [v1.0.0](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.0.0)
 ### 10/05/2021
 
