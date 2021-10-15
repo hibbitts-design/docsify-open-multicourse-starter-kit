@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.0.2](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.0.2)
+### 10/15/2021
+
+**Improved:**  
+* Relocated images to be within course folders
+
 ## [v1.0.1](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.0.1)
 ### 10/09/2021
 
