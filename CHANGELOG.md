@@ -7,6 +7,9 @@
 * Restored user zoom ability for improved accessibility
 * Revised alt image text for improved accessibility
 
+**Bugfix:**
+* Fixed incorrect H3 headers
+
 ## [v1.0.3](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.0.3)
 ### 11/15/2021
 
