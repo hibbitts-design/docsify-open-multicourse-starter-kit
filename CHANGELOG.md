@@ -3,6 +3,9 @@
 ## [v1.0.4](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.0.4)
 ### XX/XX/2022
 
+**New:**  
+* Added conditional display of page table of contents (`?toc=true`)
+
 **Improved:**  
 * Restored user zoom ability for improved accessibility
 * Revised alt image text for improved accessibility
