@@ -1,7 +1,7 @@
 # Changelog
 
 ## [v1.0.5](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.0.5)
-### XX/XX/2022
+### 03/21/2022
 
 **Improved:**  
 * Adjusted link colours for improved contrast
