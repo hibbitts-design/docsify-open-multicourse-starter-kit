@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.0.6](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.0.6)
+### XX/XX/2022
+
+**Improved:**  
+* Aligned default link colour to be the same as Canvas LMS
+* Added example link colours to be the same as Moodle LMS
+
 ## [v1.0.5](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.0.5)
 ### 03/21/2022
 
