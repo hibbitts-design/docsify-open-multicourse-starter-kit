@@ -10,7 +10,7 @@
 [Design Thinking](cpt363-2/module-01)  
 
 ### F
-[5-Second Test](cpt363-2/module-04)   
+[5-Second Test](cpt363-2/module-05)   
 [Five Whys](cpt363-2/module-01)  
 
 ### H
