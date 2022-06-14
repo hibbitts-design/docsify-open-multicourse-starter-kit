@@ -158,7 +158,7 @@
             name              : 'Docsify Open MultiCourse Starter Kit',
             homepage          : 'home.md',
             onlyCover         : true,
-            loadSidebar       : true,
+            loadSidebar       : !(getURLParameterByName(['standalone','embedded']) || standalone),
             loadNavbar        : !(getURLParameterByName(['standalone','embedded']) || standalone),
             externalLinkTarget: (getURLParameterByName(['standalone','embedded'],'_top','_blank')),
 
