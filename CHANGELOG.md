@@ -13,6 +13,7 @@
 * Updated Table of Contents plugin items
 * Added Editor.css file for better Markdown previews
 * Added new Themeable support for light/dark theme switching (OS-level)
+* Adjusted link colours for dark theme
 
 **Bugfix:**   
 * Fixed incorrect links in example course content
