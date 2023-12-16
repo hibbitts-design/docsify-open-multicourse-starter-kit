@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.2.11](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.2.11)
+### XXXX/2023
+
+**Improved:**   
+* Improved image alignment with two column layouts
+
 ## [v1.2.10](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.2.10)
 ### 11/27/2023
 
