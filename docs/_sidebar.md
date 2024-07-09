@@ -1,5 +1,5 @@
 - **LMS Links**
-- [![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar](https://canvas.sfu.ca/calendar)
+  - [![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar](https://canvas.sfu.ca/calendar)
 - **Project Info**
   - [GitHub Repository](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/)
   - [ReadMe File](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/blob/main/README.md)
