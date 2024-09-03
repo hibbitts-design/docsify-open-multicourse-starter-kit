@@ -69,6 +69,8 @@ Do you use GitLab? You can also use Docsify with [GitLab Pages](https://docsify.
 4. Find the line `var gitLinkRepoURL = '';` and enter the URL of your own GitHub Repository between the two quotes (replace `github.com` with `github.dev` to use the GitHub.dev web-based editor currently in Beta) and then scroll down to the bottom of the page and tap the **Commit changes** button to save your changes
 ![ Docsify Open Course Starter Kit - “Edit this Page” Link 5](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-oc-gitlink-5.png)
 
+To remove the “Edit this Page” link on your Docsify site, restore the value of `gitLinkRepoURL` to `''`.
+
 💻 Locally Editing Your Docsify Site Pages
 ---  
 
@@ -408,6 +410,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 </div>
 </div>
+```
 
 `video-container-4by3`  
 
