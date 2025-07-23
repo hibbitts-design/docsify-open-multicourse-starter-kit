@@ -2,38 +2,38 @@
 
 ### [A](#a)|B|C|[D](#d)|E|[F](#f)|G|[H](#h)|I|[J](#j)|[K](#k)|[L](#l)|[M](#m)|N|O|[P](#p)|Q|R|[S](#s)|[T](#t)|[U](#u)|[V](#v)|W|X|Y|Z  
 
-### A
+## A
 [Agile UX](cpt363-3/module-02)
 
-### D
+## D
 [Design Ethics](cpt363-3/module-02)  
 [Design Thinking](cpt363-3/module-01)  
 
-### F
+## F
 [5-Second Test](cpt363-3/module-05)   
 [Five Whys](cpt363-3/module-01)  
 
-### H
+## H
 [Hypothesis](cpt363-3/module-02)  
 
-### J
+## J
 [Journey Maps](cpt363-3/module-03)  
 
-### K
+## K
 [Kano Model](cpt363-3/module-03)  
 
-### L
+## L
 [Lean UX](cpt363-3/module-02)  
 
-### M
+## M
 [Microsoft Product Reaction Cards](cpt363-3/module-02)  
 
-### P
+## P
 [Problem Statement](cpt363-3/module-03)  
 [Product Design Principles](cpt363-3/module-03)  
 [Prototyping](cpt363-3/module-04)   
 
-### S
+## S
 [Scenario-based Design (and Task-Centered Design)](cpt363-3/module-04)  
 [Scenarios (and Design Scenarios)](cpt363-3/module-04)  
 [Sketching](cpt363-3/module-04)
@@ -41,10 +41,10 @@
 [Software Design Processes](cpt363-3/module-02)  
 [Storyboards](cpt363-3/module-04)  
 
-### T
+## T
 [Task Analysis](cpt363-3/module-02)  
 
-### U
+## U
 [Usability](cpt363-3/module-01)  
 [Usability Goals](cpt363-3/module-02)  
 [Usability Testing](cpt363-3/module-05)   
@@ -53,5 +53,5 @@
 [UX Goals](cpt363-3/module-02)  
 [UX Strategy](cpt363-3/module-03)  
 
-### V
+## V
 [Value Proposition](cpt363-3/module-03)  
