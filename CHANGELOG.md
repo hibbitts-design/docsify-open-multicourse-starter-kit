@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.3.7](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.3.7)
+### XX/XX/2026
+
+**Improved:**
+* Add example use of 'include' to show shared a page between courses (cpt-363-3/resources.md)
+
 ## [v1.3.6](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.3.6)
 ### 12/23/2025
 
