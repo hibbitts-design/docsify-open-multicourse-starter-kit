@@ -5,6 +5,7 @@
 
 **Improved:**
 * Add example use of 'include' to show shared a page between courses (cpt-363-3/resources.md)
+* Enhanced search results display with page grouping, section titles, smart deduplication, and keyboard navigation
 
 ## [v1.3.6](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v1.3.6)
 ### 12/23/2025
