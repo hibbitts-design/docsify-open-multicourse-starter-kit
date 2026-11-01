@@ -24,6 +24,8 @@
 * Add local backup copies of default sidebar icons and README note
 * A card's link button in its own paragraph now sits at the bottom of the card, lined up across the row
 * Cards in a list line up across each row (image, title, text), however long their titles are
+* Show the navbar on phones instead of merging it into the sidebar (`mergeNavbar: false`), as in Docsify-This
+* An empty navbar no longer leaves space above the page
 * Updated ReadMe
 
 **Bugfix:**
