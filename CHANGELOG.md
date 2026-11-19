@@ -8,6 +8,7 @@
 * Portrait guide cover: `guide-cover-portrait`, added to `guide-cover`, shows a book cover whole at its own shape
 
 **Improved:**
+* A long site title wraps onto a second line on phones instead of running off the page
 * A guide cover has a faint edge and soft shadow, as in Open Publishing Space, so a light cover stands out from the page
 
 ## [v2.1.1](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v2.1.1)
