@@ -10,6 +10,7 @@
 **Improved:**
 * A long site title wraps onto a second line on phones instead of running off the page
 * A guide cover has a faint edge and soft shadow, as in Open Publishing Space, so a light cover stands out from the page
+* A card whose title is a link can be clicked anywhere – on its image, title or text – yet is still one link for keyboard and screen reader users, so its image no longer needs to be a second link
 
 ## [v2.1.1](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit/releases/tag/v2.1.1)
 ### 11/17/2026
